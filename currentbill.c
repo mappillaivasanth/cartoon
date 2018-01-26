@@ -5,7 +5,7 @@ int a;
 float b,c;
 printf("Enter the unit :  ");
 scanf("%d",&a);
-if(0>a<=50)
+if(a<=50)
 {
     
 b=(a*0.5);
